@@ -8,7 +8,7 @@ A simple demo project for demonstrating the Paging3 library with Jetpack Compose
 
 
 #### App Features
-- Users can view the latest news from the news api.
+- Users can view the latest news from the [news api](https://newsapi.org/).
 - Users can also search for any news from the api.
 - Supports pagination so you can literally view all news from around the world in the last 5 years.
 
