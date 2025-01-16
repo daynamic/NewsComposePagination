@@ -12,7 +12,7 @@ interface NewsApiService {
      * It has four query parameters: query, apiKey, page & pageSize
      */
 
-    @GET()
+    @GET("/v2/everything")
     suspend fun fetchFeed(
         @Query("q") q: String,
         @Query("apiKey") apiKey: String,

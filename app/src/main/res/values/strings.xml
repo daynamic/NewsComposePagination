@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NewsComposePagination</string>
+    <string name="refresh">Refresh</string>
+    <string name="loading">Loading…</string>
 </resources>
